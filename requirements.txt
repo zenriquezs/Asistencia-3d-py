@@ -1,0 +1,6 @@
+streamlit
+firebase-admin
+reportlab
+pandas
+imagekitio
+Pillow
